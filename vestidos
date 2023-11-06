@@ -9,11 +9,11 @@
  <header>
 <ul ID="menu">
  
- <li><a  href = "calça.html"></a>calça</li>
- <li><a  href = "blusas.html"></a>blusas</li>
- <li><a  href = "calção.html"></a>calção</li>
- <li><a  href = "vestidos.html"></a>vestidos</li>
- <li><a  href = "camisetas.html"></a>camisetas</li>
+ <li><a  href = "calça.html">calça</a></li>
+ <li><a  href = "blusas.html">blusas</a></li>
+ <li><a  href = "calção.html">calção</a></li>
+ <li><a  href = "vestidos.html">vestidos</a></li>
+ <li><a  href = "camisetas.html">camisetas</a></li>
  
  </ul>
 </header>
