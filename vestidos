@@ -14,13 +14,14 @@
  <li><a  href = "calção.html"></a>calção</li>
  <li><a  href = "vestidos.html"></a>vestidos</li>
  <li><a  href = "camisetas.html"></a>camisetas</li>
-
+ 
  </ul>
 </header>
-<h1> blusas</h1>
-<img ID="img2" src=" img2.jpg">
-<p> temos esse moletom na promoção do tamanho p ao gg
-    cores diponiveis:preto e branco
+<h1> vestidos </h1>
+<img ID=" img4" src=" img4.jpg">
+<p> temo varias opçoẽs de vestidos na promoção.
+    temoss na cor: preta,rosa,verde e branco.
+    nos tamanhos p ao g
 </p>
  </body>
 </html>
